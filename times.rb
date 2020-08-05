@@ -1,7 +1,7 @@
-def using_times(looping_string:"Wingardium Leviosa")
+def using_times
 	#your code here
 	7.times 
-	  puts looping_string
+	  puts 
 end
 
 
